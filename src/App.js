@@ -1,24 +1,26 @@
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter as Router } from 'react-router-dom';
+import { QueryClient, QueryClientProvider } from 'react-query';
+import { ReactQueryDevtools } from 'react-query/devtools';
+
+import AuthenticatedApp from './apps/AuthenticatedApp';
+import UnauthenticatedApp from './apps/UnauthenticatedApp';
+
+const queryClient = new QueryClient();
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+  // Use isAuthenticated placeholder before auth service is ready
+  const isAuthenticated = true;
+
+  return isAuthenticated ? (
+    <QueryClientProvider client={queryClient}>
+      <Router>
+        <AuthenticatedApp />
+      </Router>
+
+      <ReactQueryDevtools initialIsOpen={false} />
+    </QueryClientProvider>
+  ) : (
+    <UnauthenticatedApp />
   );
 }
 

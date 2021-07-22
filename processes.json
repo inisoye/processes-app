@@ -1,0 +1,414 @@
+{
+  "processes": [
+    {
+      "id": 1,
+      "processName": "Bample Process",
+      "stepsCount": "3",
+      "creator": "IT Lead",
+      "denyOnSingleRejection": true,
+      "hasAttachments": false,
+      "dateUpdated": "2021-07-14T04:46:17.0233333",
+      "dateCreated": "2021-07-14T04:46:17.0233333",
+      "processDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed ipsum diam. Maecenas finibus sem urna, in gravida mi dignissim nec.",
+      "steps": [
+        {
+          "id": 1,
+          "stepNumber": 1,
+          "approvers": [
+            {
+              "id": 1,
+              "approver1": "Internal Control Officer"
+            },
+            {
+              "id": 2,
+              "approver2": "General Manager"
+            },
+            {
+              "id": 3,
+              "approver3": "Finance Lead"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "stepNumber": 2,
+          "approvers": [{ "id": 1, "approver1": "General Manager" }]
+        },
+        {
+          "id": 3,
+          "stepNumber": 3,
+          "approvers": [{ "id": 1, "approver1": "IT Lead" }]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "processName": "Sample Process",
+      "stepsCount": "3",
+      "creator": "IT Lead",
+      "denyOnSingleRejection": true,
+      "hasAttachments": false,
+      "dateUpdated": "2021-07-14T04:46:17.0233333",
+      "dateCreated": "2021-07-14T04:46:17.0233333",
+      "processDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed ipsum diam. Maecenas finibus sem urna, in gravida mi dignissim nec.",
+      "steps": [
+        {
+          "id": 1,
+          "stepNumber": 1,
+          "approvers": [
+            {
+              "id": 1,
+              "approver1": "Internal Control Officer"
+            },
+            {
+              "id": 2,
+              "approver2": "General Manager"
+            },
+            {
+              "id": 3,
+              "approver3": "Finance Lead"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "stepNumber": 2,
+          "approvers": [{ "id": 1, "approver1": "General Manager" }]
+        },
+        {
+          "id": 3,
+          "stepNumber": 3,
+          "approvers": [{ "id": 1, "approver1": "IT Lead" }]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "processName": "Sample Process",
+      "stepsCount": "3",
+      "creator": "IT Lead",
+      "denyOnSingleRejection": true,
+      "hasAttachments": false,
+      "dateUpdated": "2021-07-14T04:46:17.0233333",
+      "dateCreated": "2021-07-14T04:46:17.0233333",
+      "processDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed ipsum diam. Maecenas finibus sem urna, in gravida mi dignissim nec.",
+      "steps": [
+        {
+          "id": 1,
+          "stepNumber": 1,
+          "approvers": [
+            {
+              "id": 1,
+              "approver1": "Internal Control Officer"
+            },
+            {
+              "id": 2,
+              "approver2": "General Manager"
+            },
+            {
+              "id": 3,
+              "approver3": "Finance Lead"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "stepNumber": 2,
+          "approvers": [{ "id": 1, "approver1": "General Manager" }]
+        },
+        {
+          "id": 3,
+          "stepNumber": 3,
+          "approvers": [{ "id": 1, "approver1": "IT Lead" }]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "processName": "Yample Process",
+      "stepsCount": "3",
+      "creator": "VT Lead",
+      "denyOnSingleRejection": true,
+      "hasAttachments": false,
+      "dateUpdated": "2021-07-14T04:46:17.0233333",
+      "dateCreated": "2021-07-14T04:46:17.0233333",
+      "processDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed ipsum diam. Maecenas finibus sem urna, in gravida mi dignissim nec.",
+      "steps": [
+        {
+          "id": 1,
+          "stepNumber": 1,
+          "approvers": [
+            {
+              "id": 1,
+              "approver1": "Internal Control Officer"
+            },
+            {
+              "id": 2,
+              "approver2": "General Manager"
+            },
+            {
+              "id": 3,
+              "approver3": "Finance Lead"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "stepNumber": 2,
+          "approvers": [{ "id": 1, "approver1": "General Manager" }]
+        },
+        {
+          "id": 3,
+          "stepNumber": 3,
+          "approvers": [{ "id": 1, "approver1": "IT Lead" }]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "processName": "Sample Process",
+      "stepsCount": "3",
+      "creator": "IT Lead",
+      "denyOnSingleRejection": true,
+      "hasAttachments": false,
+      "dateUpdated": "2021-07-14T04:46:17.0233333",
+      "dateCreated": "2021-07-14T04:46:17.0233333",
+      "processDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed ipsum diam. Maecenas finibus sem urna, in gravida mi dignissim nec.",
+      "steps": [
+        {
+          "id": 1,
+          "stepNumber": 1,
+          "approvers": [
+            {
+              "id": 1,
+              "approver1": "Internal Control Officer"
+            },
+            {
+              "id": 2,
+              "approver2": "General Manager"
+            },
+            {
+              "id": 3,
+              "approver3": "Finance Lead"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "stepNumber": 2,
+          "approvers": [{ "id": 1, "approver1": "General Manager" }]
+        },
+        {
+          "id": 3,
+          "stepNumber": 3,
+          "approvers": [{ "id": 1, "approver1": "IT Lead" }]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "processName": "Sample Process",
+      "stepsCount": "3",
+      "creator": "AT Lead",
+      "denyOnSingleRejection": true,
+      "hasAttachments": false,
+      "dateUpdated": "2021-07-14T04:46:17.0233333",
+      "dateCreated": "2021-07-14T04:46:17.0233333",
+      "processDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed ipsum diam. Maecenas finibus sem urna, in gravida mi dignissim nec.",
+      "steps": [
+        {
+          "id": 1,
+          "stepNumber": 1,
+          "approvers": [
+            {
+              "id": 1,
+              "approver1": "Internal Control Officer"
+            },
+            {
+              "id": 2,
+              "approver2": "General Manager"
+            },
+            {
+              "id": 3,
+              "approver3": "Finance Lead"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "stepNumber": 2,
+          "approvers": [{ "id": 1, "approver1": "General Manager" }]
+        },
+        {
+          "id": 3,
+          "stepNumber": 3,
+          "approvers": [{ "id": 1, "approver1": "IT Lead" }]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "processName": "Sample Process",
+      "stepsCount": "3",
+      "creator": "IT Lead",
+      "denyOnSingleRejection": true,
+      "hasAttachments": false,
+      "dateUpdated": "2021-07-14T04:46:17.0233333",
+      "dateCreated": "2021-07-14T04:46:17.0233333",
+      "processDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed ipsum diam. Maecenas finibus sem urna, in gravida mi dignissim nec.",
+      "steps": [
+        {
+          "id": 1,
+          "stepNumber": 1,
+          "approvers": [
+            {
+              "id": 1,
+              "approver1": "Internal Control Officer"
+            },
+            {
+              "id": 2,
+              "approver2": "General Manager"
+            },
+            {
+              "id": 3,
+              "approver3": "Finance Lead"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "stepNumber": 2,
+          "approvers": [{ "id": 1, "approver1": "General Manager" }]
+        },
+        {
+          "id": 3,
+          "stepNumber": 3,
+          "approvers": [{ "id": 1, "approver1": "IT Lead" }]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "processName": "Sample Process",
+      "stepsCount": "3",
+      "creator": "IT Lead",
+      "denyOnSingleRejection": true,
+      "hasAttachments": false,
+      "dateUpdated": "2021-07-14T04:46:17.0233333",
+      "dateCreated": "2021-07-14T04:46:17.0233333",
+      "processDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed ipsum diam. Maecenas finibus sem urna, in gravida mi dignissim nec.",
+      "steps": [
+        {
+          "id": 1,
+          "stepNumber": 1,
+          "approvers": [
+            {
+              "id": 1,
+              "approver1": "Internal Control Officer"
+            },
+            {
+              "id": 2,
+              "approver2": "General Manager"
+            },
+            {
+              "id": 3,
+              "approver3": "Finance Lead"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "stepNumber": 2,
+          "approvers": [{ "id": 1, "approver1": "General Manager" }]
+        },
+        {
+          "id": 3,
+          "stepNumber": 3,
+          "approvers": [{ "id": 1, "approver1": "IT Lead" }]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "processName": "Sample Process",
+      "stepsCount": "3",
+      "creator": "IT Lead",
+      "denyOnSingleRejection": true,
+      "hasAttachments": false,
+      "dateUpdated": "2021-07-14T04:46:17.0233333",
+      "dateCreated": "2021-07-14T04:46:17.0233333",
+      "processDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed ipsum diam. Maecenas finibus sem urna, in gravida mi dignissim nec.",
+      "steps": [
+        {
+          "id": 1,
+          "stepNumber": 1,
+          "approvers": [
+            {
+              "id": 1,
+              "approver1": "Internal Control Officer"
+            },
+            {
+              "id": 2,
+              "approver2": "General Manager"
+            },
+            {
+              "id": 3,
+              "approver3": "Finance Lead"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "stepNumber": 2,
+          "approvers": [{ "id": 1, "approver1": "General Manager" }]
+        },
+        {
+          "id": 3,
+          "stepNumber": 3,
+          "approvers": [{ "id": 1, "approver1": "IT Lead" }]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "processName": "Sample Process",
+      "stepsCount": "3",
+      "creator": "IT Lead",
+      "denyOnSingleRejection": true,
+      "hasAttachments": false,
+      "dateUpdated": "2021-07-14T04:46:17.0233333",
+      "dateCreated": "2021-07-14T04:46:17.0233333",
+      "processDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed ipsum diam. Maecenas finibus sem urna, in gravida mi dignissim nec.",
+      "steps": [
+        {
+          "id": 1,
+          "stepNumber": 1,
+          "approvers": [
+            {
+              "id": 1,
+              "approver1": "Internal Control Officer"
+            },
+            {
+              "id": 2,
+              "approver2": "General Manager"
+            },
+            {
+              "id": 3,
+              "approver3": "Finance Lead"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "stepNumber": 2,
+          "approvers": [{ "id": 1, "approver1": "General Manager" }]
+        },
+        {
+          "id": 3,
+          "stepNumber": 3,
+          "approvers": [{ "id": 1, "approver1": "IT Lead" }]
+        }
+      ]
+    }
+  ]
+}

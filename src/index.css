@@ -1,13 +1,35 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@font-face {
+  font-family: 'Ilisarniq';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('./fonts/Ilisarniq-Bold.eot');
+  src: url('./fonts/Ilisarniq-Bold.eot?#iefix') format('embedded-opentype'),
+    url('./fonts/Ilisarniq-Bold.woff2') format('woff2'),
+    url('./fonts/Ilisarniq-Bold.woff') format('woff'),
+    url('./fonts/Ilisarniq-Bold.ttf') format('truetype');
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@font-face {
+  font-family: 'Ilisarniq';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('./fonts/Ilisarniq-Demi.eot');
+  src: url('./fonts/Ilisarniq-Demi.eot?#iefix') format('embedded-opentype'),
+    url('./fonts/Ilisarniq-Demi.woff2') format('woff2'),
+    url('./fonts/Ilisarniq-Demi.woff') format('woff'),
+    url('./fonts/Ilisarniq-Demi.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Ilisarniq';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./fonts/Ilisarniq-Regular.eot');
+  src: url('./fonts/Ilisarniq-Regular.eot?#iefix') format('embedded-opentype'),
+    url('./fonts/Ilisarniq-Regular.woff2') format('woff2'),
+    url('./fonts/Ilisarniq-Regular.woff') format('woff'),
+    url('./fonts/Ilisarniq-Regular.ttf') format('truetype');
 }
